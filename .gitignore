@@ -1,0 +1,81 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET Core
+wwwroot/lib/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+
+# Test Results
+TestResults/
+
+# Publish Output
+publish/
+
+# IIS
+iisexpress/
+
+# Database Local
+*.mdf
+*.ldf
+
+# Entity Framework
+Migrations/*.Designer.cs
+
+# Secrets
+appsettings.Development.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Backup Files
+*.bak
+
+# Generated Files
+Generated/
+
+# Coverage
+coverage/
+
+# Docker
+docker-compose.override.yml
+
+# JetBrains
+_ReSharper*/
+*.DotSettings.user
