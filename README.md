@@ -1,22 +1,22 @@
 # AgroStock AI
 
-## Sistema Inteligente de Gestión de Inventario Agropecuario
+## Sistema Inteligente de GestiÃ³n de Inventario Agropecuario
 
-### Descripción
+### DescripciÃ³n
 
-AgroStock AI es una aplicación web desarrollada para facilitar la gestión y control de inventarios en negocios agropecuarios. El sistema permite administrar productos, registrar movimientos de entrada y salida, monitorear existencias y visualizar información relevante mediante módulos organizados y de fácil acceso.
+AgroStock AI es una aplicaciÃ³n web desarrollada para facilitar la gestiÃ³n y control de inventarios en negocios agropecuarios. El sistema permite administrar productos, registrar movimientos de entrada y salida, monitorear existencias y visualizar informaciÃ³n relevante mediante mÃ³dulos organizados y de fÃ¡cil acceso.
 
-Este proyecto forma parte del Proyecto Final de la carrera Tecnólogo en Desarrollo de Software.
+Este proyecto forma parte del Proyecto Final de la carrera TecnÃ³logo en Desarrollo de Software.
 
 ---
 
 ## Objetivo General
 
-Desarrollar un sistema de gestión de inventario agropecuario que permita controlar productos, registrar movimientos de inventario y facilitar la toma de decisiones mediante herramientas de monitoreo y organización de información.
+Desarrollar un sistema de gestiÃ³n de inventario agropecuario que permita controlar productos, registrar movimientos de inventario y facilitar la toma de decisiones mediante herramientas de monitoreo y organizaciÃ³n de informaciÃ³n.
 
 ---
 
-## Tecnologías Utilizadas
+## TecnologÃ­as Utilizadas
 
 ### Backend
 
@@ -33,7 +33,7 @@ Desarrollar un sistema de gestión de inventario agropecuario que permita control
 
 ### Base de Datos
 
-* MySQL (fase de implementación posterior)
+* SQL SERVER
 
 ### Herramientas de Desarrollo
 
@@ -56,19 +56,19 @@ Desarrollar un sistema de gestión de inventario agropecuario que permita control
 
 ---
 
-## Módulos del Sistema
+## MÃ³dulos del Sistema
 
 ### Dashboard
 
-Visualización general del sistema, estadísticas e indicadores.
+VisualizaciÃ³n general del sistema, estadÃ­sticas e indicadores.
 
 ### Productos
 
-Gestión de productos agropecuarios.
+GestiÃ³n de productos agropecuarios.
 
-### Categorías
+### CategorÃ­as
 
-Clasificación y organización de productos.
+ClasificaciÃ³n y organizaciÃ³n de productos.
 
 ### Inventario
 
@@ -76,7 +76,7 @@ Control de entradas y salidas de productos.
 
 ### Alertas
 
-Visualización de productos críticos y notificaciones relacionadas con el inventario.
+VisualizaciÃ³n de productos crÃ­ticos y notificaciones relacionadas con el inventario.
 
 ---
 
@@ -86,20 +86,20 @@ Proyecto en fase inicial de desarrollo.
 
 ### Avance 1 Completado
 
-* Configuración del repositorio GitHub.
-* Creación de la estructura MVC.
-* Configuración del entorno de desarrollo.
-* Creación de módulos iniciales.
-* Configuración de Entity Framework Core.
-* Preparación de la arquitectura base.
+* ConfiguraciÃ³n del repositorio GitHub.
+* CreaciÃ³n de la estructura MVC.
+* ConfiguraciÃ³n del entorno de desarrollo.
+* CreaciÃ³n de mÃ³dulos iniciales.
+* ConfiguraciÃ³n de Entity Framework Core.
+* PreparaciÃ³n de la arquitectura base.
 
 ---
 
 ## Integrantes
 
-* José Manuel Vicente Checo
-* Yafreilis Cuevas Santana
-* Yordi Rolando Bello Ramírez
+* JosÃ© Manuel Vicente Checo     2023-1073
+* Yafreilis Cuevas Santana      2022-0656
+* Yordi Rolando Bello RamÃ­rez   2023-1041
 
 ---
 
@@ -111,6 +111,6 @@ Willis Ezequiel Polanco Caraballo
 
 ## Carrera
 
-Tecnólogo en Desarrollo de Software (TDS)
+TecnÃ³logo en Desarrollo de Software (TDS)
 
-Instituto Tecnológico de Las Américas (ITLA)
+Instituto TecnolÃ³gico de Las AmÃ©ricas (ITLA)
