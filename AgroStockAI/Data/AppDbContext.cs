@@ -10,6 +10,7 @@ namespace AgroStockAI.Data
         {
         }
 
+        public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Producto> Productos { get; set; }
 
         public DbSet<Categoria> Categorias { get; set; }
@@ -17,5 +18,7 @@ namespace AgroStockAI.Data
         public DbSet<MovimientoInventario> MovimientosInventario { get; set; }
 
         public DbSet<Alerta> Alertas { get; set; }
+
+        
     }
 }
