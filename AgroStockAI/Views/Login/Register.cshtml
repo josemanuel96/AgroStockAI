@@ -1,0 +1,25 @@
+﻿@model AgroStockAI.Models.Usuario
+
+@{
+    ViewData["Title"] = "Crear cuenta";
+}
+
+<h2>Crear cuenta</h2>
+
+<form asp-controller="Login" asp-action="Register" method="post">
+    <div>
+        <input asp-for="Nombre" placeholder="Nombre" />
+    </div>
+
+    <div>
+        <input asp-for="Email" placeholder="Email" />
+    </div>
+
+    <div>
+        <input asp-for="Password" type="password" placeholder="Password" />
+    </div>
+
+    <button type="submit">Crear cuenta</button>
+</form>
+
+<a asp-controller="Login" asp-action="Index">Ya tengo cuenta</a>
